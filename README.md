@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Bring your hashes to the party
 
 <h1 align="center">
@@ -8,3 +9,7 @@ Bring your hashes to the party
   <br>
 </h1>
 
+=======
+# Hash-Swagger
+This is a simple hash cracker, to crack hash strings using wordlists of your chaoice.
+>>>>>>> 9065aa5 (Initial commit)
