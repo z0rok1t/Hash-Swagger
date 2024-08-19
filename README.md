@@ -24,8 +24,30 @@ Install Hash Swagger
  git clone https://github.com/z0rok1t/Hash-Swagger.git
 
  cd Hash-Swagger
+```
+### Identify Hash Algorithm
+ ```
+./swagger_v2.py -i <HASH_STRING>
+
+```
+
+### Crack a Single Hash
+
+```
+./swagger_v2.py -d <HASH_STRING> -w <WORDLIST_FILE>
+
+```
+
+### Crack Hashes from file 
+
+Crack Multiple Hashes from a File
+
+```bash
+ git clone https://github.com/z0rok1t/Hash-Swagger.git
+
+ cd Hash-Swagger
   
- ./swagger_v2.py -d <Hash> -w <worldlist>
+ ./swagger_v2.py -d <HASH-STRING> -w <WORDLIST_FILE>
 ```
     
 ### Author
