@@ -1,6 +1,4 @@
-
-## ---------------Hash Swagger--------------
-<h4 align="center">Hash Swagger</h4>
+<h1 align="center">Hash Swagger</h1>
 
 <h4 align="center">Get those hashes cracked.</h4>
 
