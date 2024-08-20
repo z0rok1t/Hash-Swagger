@@ -26,16 +26,14 @@ Install Hash Swagger
  cd Hash-Swagger
 ```
 ### Identify Hash Algorithm
- ```
+ ```bash
 ./swagger_v2.py -i <HASH_STRING>
-
 ```
 
 ### Crack a Single Hash
 
-```
+```bash
 ./swagger_v2.py -d <HASH_STRING> -w <WORDLIST_FILE>
-
 ```
 
 ### Crack Hashes from file 
@@ -44,7 +42,6 @@ Crack Multiple Hashes from a File
 
 ```bash  
  ./swagger_v2.py -d <HASH-STRING> -w <WORDLIST_FILE>
-
 ```
     
 ### Author
