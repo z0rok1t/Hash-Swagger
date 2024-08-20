@@ -42,12 +42,9 @@ Install Hash Swagger
 
 Crack Multiple Hashes from a File
 
-```bash
- git clone https://github.com/z0rok1t/Hash-Swagger.git
-
- cd Hash-Swagger
-  
+```bash  
  ./swagger_v2.py -d <HASH-STRING> -w <WORDLIST_FILE>
+
 ```
     
 ### Author
