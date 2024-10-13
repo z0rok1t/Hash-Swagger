@@ -5,7 +5,7 @@
 
 ### Screenshots
 
-![App Screenshot](https://drive.google.com/file/d/1a5pwSfO9HCGwRDbdITFGlIeycE2R4ig-/view?usp=drive_link)
+![App Screenshot](https://drive.google.com/file/d/1a5pwSfO9HCGwRDbdITFGlIeycE2R4ig-/view?usp=sharing)
 
 
 ### Features
