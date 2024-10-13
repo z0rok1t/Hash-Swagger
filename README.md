@@ -5,7 +5,7 @@
 
 ### Screenshots
 
-![App Screenshot](https://imgtr.ee/images/2024/08/19/b378afb4525388dab3b5aabbf090e6a3.png)
+![App Screenshot](https://drive.google.com/file/d/1a5pwSfO9HCGwRDbdITFGlIeycE2R4ig-/view?usp=drive_link)
 
 
 ### Features
