@@ -6,6 +6,7 @@
 ### Screenshots
 
 ![App Screenshot](https://www.imgtr.net/1G7FSC3pqKm8ThS)
+<a target="_blank" href="https://www.imgtr.net/1G7FSC3pqKm8ThS"><img  src="https://www.imgtr.net/ib/YlUU7VErsz3fh5x_1728840217.png" alt="Hash-Swagger screenshot.png"/></a>
 
 
 ### Features
